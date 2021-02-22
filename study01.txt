@@ -23,4 +23,5 @@ drwxrwxrwt.  33 root root 12288 2月  22 20:50 tmp
 drwxr-xr-x.  13 root root  4096 1月  28 12:50 usr
 drwxr-xr-x.  21 root root  4096 2月  19 18:32 var
 drwxr-xr-x    3 root root  4096 2月  22 20:50 workSpace
+
 drwxr-xr-x.   6 root root  4096 2月  19 18:32 www
