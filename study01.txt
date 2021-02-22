@@ -1,0 +1,26 @@
+总用量 96
+dr-xr-xr-x.  21 root root  4096 2月  22 20:50 .
+dr-xr-xr-x.  21 root root  4096 2月  22 20:50 ..
+lrwxrwxrwx.   1 root root     7 1月  28 12:50 bin -> usr/bin
+dr-xr-xr-x.   6 root root  4096 1月  28 13:03 boot
+drwxr-xr-x   19 root root  3280 2月  22 18:45 dev
+drwxr-xr-x. 144 root root 12288 2月  22 18:45 etc
+drwxr-xr-x    3 root root  4096 2月  22 20:05 helloGit
+drwxr-xr-x.   5 root root  4096 2月  18 12:24 home
+lrwxrwxrwx.   1 root root     7 1月  28 12:50 lib -> usr/lib
+lrwxrwxrwx.   1 root root     9 1月  28 12:50 lib64 -> usr/lib64
+drwx------.   2 root root 16384 1月  28 12:49 lost+found
+drwxr-xr-x.   2 root root  4096 4月  11 2018 media
+drwxr-xr-x.   3 root root  4096 1月  29 10:08 mnt
+drwxr-xr-x.   5 root root  4096 2月   7 13:54 opt
+dr-xr-xr-x  228 root root     0 2月  22 18:45 proc
+dr-xr-x---.  17 root root  4096 2月  22 20:18 root
+drwxr-xr-x   42 root root  1260 2月  22 18:45 run
+lrwxrwxrwx.   1 root root     8 1月  28 12:50 sbin -> usr/sbin
+drwxr-xr-x.   2 root root  4096 4月  11 2018 srv
+dr-xr-xr-x   13 root root     0 2月  22 20:53 sys
+drwxrwxrwt.  33 root root 12288 2月  22 20:50 tmp
+drwxr-xr-x.  13 root root  4096 1月  28 12:50 usr
+drwxr-xr-x.  21 root root  4096 2月  19 18:32 var
+drwxr-xr-x    3 root root  4096 2月  22 20:50 workSpace
+drwxr-xr-x.   6 root root  4096 2月  19 18:32 www
