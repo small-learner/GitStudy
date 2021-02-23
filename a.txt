@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 总用量 12
 drwxr-xr-x   3 root root 4096 2月  22 19:01 .
 dr-xr-xr-x. 20 root root 4096 2月  22 18:47 ..
@@ -5,3 +6,6 @@ dr-xr-xr-x. 20 root root 4096 2月  22 18:47 ..
 drwxr-xr-x   7 root root 4096 2月  22 18:47 .git
 second modif
 y
+测试
+:wq
+ first
